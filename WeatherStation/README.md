@@ -11,3 +11,4 @@ If you are here to download our data for research Purposes:
 [Try Here]()
 
 Guide incoming...
+[ (Resources and Tools for Weather and Climate Research for the Built Environment)](https://libguides.nyit.edu/architecture/SAME)
