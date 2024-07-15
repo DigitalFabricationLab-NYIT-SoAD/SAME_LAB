@@ -5,6 +5,6 @@ We previously were living here:
 https://libguides.nyit.edu/digitalmappingtools/climate
 
 Research Tracks:
-[Weather Data](/WeatherStation)
+[Weather Data](SAME_LAB/WeatherStation)
 
 [Live Website Link](https://digitalfabricationlab-nyit-soad.github.io/SAME_LAB/)
