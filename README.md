@@ -2,7 +2,7 @@ Welcome to the S.a.M.E Lab Homepage 🥇
 
 We previously were living here:
 
-https://libguides.nyit.edu/digitalmappingtools/climate
+https://libguides.nyit.edu/architecture/SAME
 
 Research Tracks:
 [Weather Data](WeatherStation)
