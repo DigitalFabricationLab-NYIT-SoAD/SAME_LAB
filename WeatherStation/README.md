@@ -32,8 +32,11 @@ https://nodered.org/docs/user-guide/runtime/adding-nodes\
 
 - [x] Install Node-Red
 https://nodered.org/docs/getting-started/local
+
 In terminal, enter "node-red" to open a node-red pallet.
+
 You can access the dashboard by pointing your browser to:
+
 http://127.0.0.1:1880/
 
 - [x] Install the Dashboard Utility:
@@ -43,10 +46,11 @@ https://dashboard.flowfuse.com/getting-started.html
 https://github.com/MatsA/Davis-Weatherlink-dashboard
 
 - [x] Deploy a blank default dashboard Weatherlink Dashboard Flow
-      With a open node-red pallet find "insert" in the menu and use the downloaded Weatherlink Dashboard Flow file.
-      Click Deploy get it running.
-      It will be available at:
-      http://127.0.0.1:1880/ui/
+      
+With a open node-red pallet find "insert" in the menu and use the downloaded Weatherlink Dashboard Flow file.
+Click Deploy get it running.
+It will be available at:
+http://127.0.0.1:1880/ui/
 
 - [ ] Enter your Weatherlink API Key
   
