@@ -48,7 +48,7 @@ https://github.com/MatsA/Davis-Weatherlink-dashboard
       It will be available at:
       http://127.0.0.1:1880/ui/
 
-- [] Enter your Weatherlink API Key
+- [ ] Enter your Weatherlink API Key
   
 This is almost working. Currently looks like this:
 ![image](https://github.com/user-attachments/assets/e9bcc7c4-2d47-4c79-9728-5623d9b28250)
