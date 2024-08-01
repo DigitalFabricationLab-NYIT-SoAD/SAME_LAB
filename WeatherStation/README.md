@@ -64,6 +64,13 @@ It knows the location so it must have the station ID... but no weather data?
 
 ![image](https://github.com/user-attachments/assets/fc02bedc-a09c-4c35-9f22-32aec6187a0a)
 
+- [ ] ENd of a long day but
+![image](https://github.com/user-attachments/assets/58979468-dc61-46db-9b09-9b85e8111146)
+
+I believe the issue is the two stations. I failed to turn one off but... here we go!
+
+- [ ] 
+
 
 
 
