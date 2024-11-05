@@ -1,6 +1,6 @@
 Welcome to the S.a.M.E Lab Homepage 🥇
 
-We previously were living here:
+Cohabitating here:
 
 https://libguides.nyit.edu/architecture/SAME
 
