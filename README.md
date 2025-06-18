@@ -16,3 +16,6 @@ Research Tracks:
 --
 
 [Live Website Link](https://digitalfabricationlab-nyit-soad.github.io/SAME_LAB/)
+
+
+![PXL_20241112_144028082 RAW-01 COVER](https://github.com/user-attachments/assets/74166195-298b-48e2-b765-4fb57c6454c2)
