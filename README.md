@@ -35,3 +35,8 @@ Select the corresponding file in .3DM format from this link:
 https://www.nyc.gov/content/planning/pages/resources/datasets/nyc-3d-model
 
 We recommend worksessioning the model into an empty Rhino File and copying a selected set of buildings you need to local layers in your file.
+
+You can either use the buildings for context or environmental modeling or prepare them for fabrication!
+
+<img width="1659" height="841" alt="image" src="https://github.com/user-attachments/assets/d99ddff8-4f9d-47e1-a00e-772361817fdb" />
+
