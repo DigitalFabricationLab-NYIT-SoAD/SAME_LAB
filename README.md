@@ -33,3 +33,5 @@ Use this [Map](https://boundaries.beta.nyc/?map=cd&dist=301) to find which Commu
 Select the corresponding file in .3DM format from this link:
 
 https://www.nyc.gov/content/planning/pages/resources/datasets/nyc-3d-model
+
+We recommend worksessioning the model into an empty Rhino File and copying a selected set of buildings you need to local layers in your file.
