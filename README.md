@@ -22,21 +22,6 @@ Research Tracks:
 
 ### Quick Guides
 
-Downloading Building Data From NYC Open Data:
+[Downloading Building Data From NYC OpenData to prepare for 3D Printing]()
 
-Use this [Map](https://boundaries.beta.nyc/?map=cd&dist=301) to find which Community district your Site is in.
-
-<img width=auto height="400" alt="image" src="https://github.com/user-attachments/assets/6f7e077f-1b4e-46a8-927e-6553363a83ca" />
-
-
-
-Select the corresponding file in .3DM format from this link:
-
-https://www.nyc.gov/content/planning/pages/resources/datasets/nyc-3d-model
-
-We recommend worksessioning the model into an empty Rhino File and copying a selected set of buildings you need to local layers in your file.
-
-You can either use the buildings for context or environmental modeling or prepare them for fabrication!
-
-<img width="1659" height="841" alt="image" src="https://github.com/user-attachments/assets/d99ddff8-4f9d-47e1-a00e-772361817fdb" />
-
+[Site EUI Data]()
