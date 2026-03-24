@@ -7,15 +7,19 @@ Simulated and Measured Environments Lab
 
 ## Hello School of Data!
 
-We are happy to be able to present some compacted data sets that reinterpret the data available [HERE](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/about_data)
+We are happy to be able to present some compacted data sets that reinterpret the data available from the city [HERE](https://data.cityofnewyork.us/Environment/NYC-Building-Energy-and-Water-Data-Disclosure-for-/5zyy-y8am/about_data)
 
 For city related buildings, this report simplifies the data: [NYC Energy Benchmarking Report](https://www.nyc.gov/site/finance/property/nyc-energy-benchmarking-report.page)
 
 A few notes:
 
-_These data sets can include multiple years worth of data for one BIN number. Be mindful when searching in the dataset that "averages" can be influenced by this_
+_These data sets can include multiple years worth of data for one BIN number. Be mindful when searching in the dataset that "averages" can be influenced by this!_
 
-### Our four datasets are available via the below link.
+_We are a small research group at a university excited about this data! This data is full of holes and irregularities that we could not fix, so act carefully!_
+
+_Please let us know if you want to talk more about these issues, we love collaborating!_
+
+## Our five datasets are available via the below link.
 
 Here is what you will see when you unzip the folder:
 
@@ -23,6 +27,7 @@ Here is what you will see when you unzip the folder:
 <img width="234" height="119" alt="{4A9979B2-A32B-4175-AF94-58C2C8F525EB}" src="https://github.com/user-attachments/assets/85b5dfbb-19dd-4e4a-8a4e-93ba9f1f2665" />
 
 
+Description:
 
 1. Simplified Data with our Building Performance Relevant Columns (see below)
 2. Simplified Data with our Building Performance Relevant Columns (see below) with informative Pivot Tables 
@@ -30,9 +35,11 @@ Here is what you will see when you unzip the folder:
 4. The Complete Data Set, with irrelevant rows hidden but still available.
 5. The Complete Data Set, parsed by year for quick look ups.
 
-[HERE](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCh6m83DwSYTq8sFYcrVSS2Ad35ZhwfSBXpvdxX1FQB8vA?download=1) is the download link, good until March 2027!
+[HERE](https://nyinstituteoftechnology-my.sharepoint.com/:f:/g/personal/ewilli14_nyit_edu/IgDdIAm22j6TSaD2-HxnhnbJAbopcWruUow2fbDlUd0b6NM?e=aB7DR0) is the download link, good until March 2027!
 
 ### Building Performance Relevant Columns:
+
+We have selected the relevant columns from the data set that would most relate to studying the Building Performance of a specific building 
 
 BIN: building identification number
 
