@@ -15,12 +15,22 @@ A few notes:
 
 _These data sets can include multiple years worth of data for one BIN number. Be mindful when searching in the dataset that "averages" can be influenced by this_
 
-### Our four datasets are available via Github here:
+### Our four datasets are available via the below link.
+
+Here is what you will see when you unzip the folder:
+
+
+<img width="234" height="119" alt="{4A9979B2-A32B-4175-AF94-58C2C8F525EB}" src="https://github.com/user-attachments/assets/85b5dfbb-19dd-4e4a-8a4e-93ba9f1f2665" />
+
+
 
 1. Simplified Data with our Building Performance Relevant Columns (see below)
 2. Simplified Data with our Building Performance Relevant Columns (see below) with informative Pivot Tables 
-3. Energy Star and BIN Data Only
-4. 
+3. The Complete Data Set, for safe keeping!
+4. The Complete Data Set, with irrelevant rows hidden but still available.
+5. The Complete Data Set, parsed by year for quick look ups.
+
+[HERE](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCh6m83DwSYTq8sFYcrVSS2Ad35ZhwfSBXpvdxX1FQB8vA?download=1) is the download link, good until March 2027!
 
 ### Building Performance Relevant Columns:
 
@@ -49,7 +59,7 @@ occupancy type: category of building use, like apartment or office; different ty
 Energy Star Rating
 
 
-### Research Tracks:
+### Other Research Tracks:
 
 [Weather Station: G4054](https://weather.gladstonefamily.net/qchart/G4054?date=[today]&addnl=C0028&addnl=G0266&addnl=E3553)
 
@@ -62,7 +72,7 @@ Energy Star Rating
 
 [Downloading Building Data From NYC OpenData to prepare for 3D Printing]()
 
-[Site EUI Data]()
+[Site EUI Data](https://nyinstituteoftechnology-my.sharepoint.com/:u:/g/personal/ewilli14_nyit_edu/IQCh6m83DwSYTq8sFYcrVSS2Ad35ZhwfSBXpvdxX1FQB8vA?download=1)
 
 ### Important Links:
 
