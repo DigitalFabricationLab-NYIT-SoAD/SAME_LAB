@@ -84,7 +84,7 @@ Energy Star Rating
 ### Important Links:
 
 View our Site:
-[Live Website Link](https://digitalfabricationlab-nyit-soad.github.io/SAME_LAB/)
+[Live Website Link](https://vviolanyit.github.io/SAME_LAB/)
 
 View our actual Github:
 [Github Page with Data Downloads](https://github.com/DigitalFabricationLab-NYIT-SoAD/SAME_LAB)
